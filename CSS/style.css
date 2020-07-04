@@ -1,0 +1,38 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: cadetblue;
+}
+
+.quem-somos {
+    background-color: #D1F2EB;
+    color: dimgray ;
+}
+
+.margin {
+       padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+.parceiros {
+    background-color: #F5B7B1;
+    color: dimgray;
+}
+
+.servicos {
+    background-color: #D1F2EB;
+    color: dimgray ;
+}
+
+.img-container {
+    height: 10px;
+    max-height: 10px;
+}
+
+.bg-footer {
+    background-color: cadetblue;
+    color: black;
+}
